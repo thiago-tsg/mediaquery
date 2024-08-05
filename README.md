@@ -1,6 +1,6 @@
 # MediaQuery
 
-Ao clicar neste <a href="https://thiago-tsg.github.io/mediaquery/html" target="_blank">link</a>, você será redirecionado para visualizar um projeto de Media Query que se adapta e faz alterações em seus elementos dependendo do tamanho da tela.<br>
+Ao clicar neste <a href="https://thiago-tsg.github.io/mediaquery/" target="_blank">link</a>, você será redirecionado para visualizar um projeto de Media Query que se adapta e faz alterações em seus elementos dependendo do tamanho da tela.<br>
 
 <strong>
 Este projeto é totalmente responsivo, utilizando HTML5 e CSS3 em sua estrutura.<br>
